@@ -1,0 +1,11 @@
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\bin\Debug\CustomerData_Server.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\bin\Debug\CustomerData_Server.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\bin\Debug\CustomerData_Server.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 7\CustomerData_Server\CustomerData_Server\obj\Debug\CustomerData_Server.pdb
